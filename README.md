@@ -1,6 +1,6 @@
 # ¡Hey! 👋 
 
-[![820d430a62d360cf71c4a46f1d305f9c.gif](https://i.postimg.cc/m2dLRJFc/820d430a62d360cf71c4a46f1d305f9c.gif)](https://postimg.cc/56CdSPg1)
+![Image](https://github.com/user-attachments/assets/ae16ea6c-7d9a-4242-9537-4f152785411b)
 
 ## 💫 Sobre mí
 Backend Developer apasionado por crear soluciones elegantes y eficientes. Me especializo en:
